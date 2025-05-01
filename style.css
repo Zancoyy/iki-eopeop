@@ -1,0 +1,66 @@
+body {
+    background-color: #000000
+    
+}
+
+.judul-1 {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    color: rgba(255, 255, 255, 0.66);
+    background-color: #2b2b2b;
+    font-size: 35px;
+}
+
+.container-content {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.img-content {
+    width: 400;
+    height: 500;
+}
+
+.anjay-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
+
+.anjay-footerend {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(187, 187, 187, 0.677);
+    font-size: 15px;
+}
+
+.content-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+}
+
+.isi-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
+
+.img1-jayjo {
+    width: 200;
+    height: 200;
+}
+
+.jangan-klik {
+    color: white;
+    font-size: 20px;
+}
